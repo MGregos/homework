@@ -16,6 +16,5 @@ public class Number_7_Or_Not {
         } else {
             System.out.println("Не расстраивайтесь, когда-нибудь и на вашей улице число закончится на 7");
         }
-
     }
 }
