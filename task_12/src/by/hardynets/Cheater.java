@@ -21,6 +21,7 @@ public class Cheater {
         for(; i >= 0; i--){
             k = (int) (t / Math.pow(a, i));
 
+            
             if (k == 0){
                 System.out.print(" 000");
             } else System.out.print(" " + k);
